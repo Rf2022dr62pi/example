@@ -1,2 +1,2 @@
-# example
+# example ДЛЯ ПРИМЕРА
 For example
