@@ -1,2 +1,2 @@
-# example ДЛЯ ПРИМЕРА
+# example ДЛЯ РЕАЛЬНОГО ПРОГЕРА
 For example
